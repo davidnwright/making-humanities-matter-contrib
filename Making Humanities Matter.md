@@ -1,16 +1,48 @@
 ###Maker or Assassin: The Charred Aura of the Re-made - Contribution to Making Humanities Matter - David N. Wright, Douglas College
 
+----
+
+Devon Elliott, Robert MacDougall, & William J. Turkel. "New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice." *Canadian Journal of Communication* Vol 37 (2012) 121-128.
+
+"Matter is a new medium for historical research, providing the opportunity to explore physical and experiential questions while working with digitized and materialized forms." (Turkel 121)
+
+Canadian Journal of Communication Vol 37 (2012) 121-128 ©2012
+
+"We know that the real past is inaccessible, and all that remains is evidence and inference. This realization creates no licence for interpretive abandon, but rather the opposite. It is our deep obligation ever to seek out new ways of learning from and listening to the past. “The historical record does not only degrade over time; it can also become more articulate,” Peters writes in his exploration of history as communication (2008, 24)." (Turkel, et al. 128)
+
+"Rather than faithfully re-enacting sexist or orientalist practices for the sake of historical accuracy, we can play with them for the sake of experiment." (Turkel et al 127)
+
+"There is also an element of performance in this work, something we share with the historical actors we are studying. stage magicians, attic inventors, and crusading machinists all depended on public engagement to make sense of their activities, and we do too." (127)
+
+"obviously, there is an element of play to this kind of research. In fact, one of the main reasons that we do it is because it is fun" (Turkel 127)
+
+"Fabrication and physical experimentation will not transcend the impossibility of directly accessing the past, but they do offer another route toward apprehending what was happening and how events such as magical performances were constructed and experienced." (Turkel et al 123)
+
+"series of projects that allow us to imaginatively remake past technological artifacts and to experiment with past technological" (Turkel et al 123)
+
+"Working with actual, physical stuff offers the historian new opportunities to explore the interactions of people and things. W e fabricate objects related to our own historical interests, and then we play with them, modify them, share them with other people, and use them to ground conversations about the past and our relationship to it. What has been digitized can be re-materialized, and digitized again, and so on, in a tight loop that allows us to take best advantage of the different affordances of bits and atoms. Emerging technologies, many of them created by open source hacker, maker, or do-it-yourself groups, provide historians with the opportunity to explore physical and experiential questions while working with digitized and materialized forms." (Turkel et al. 122-3)
+
+----
+
 https://twitter.com/jasonaboyd/status/634113721607004161 Link to digiped: "humanists forget artifacts (tools) convey methods, knowledge, theories & we need to know how to read them" #digped2015
+
+----
 
 Civilization is an interesting term especially thinking about the hidden or embedded meanings lying therein. What does it mean to be civilized. What happens when we reproduce the prehistoric, are we not continuing this moral advantage? He asked ironically. From the clouds book. 
 
 The proposed contribution to Making Humanities Matter confronts the following question: if we are attempting to revive erased spaces by re-fabricating them, what responsibility do we have to the corpse's social, political, economic, and cultural aura? How do we consider, integrate or confront an individual—or collective—emotional affect produced by the revival of the previously erased or inert? Broken into two inter-related parts, the contribution first deals with the materials used in humanities fabrication by asking how the reproduction of erased spaces (loosely defined)—obsolete objects, eroded circuitry, destroyed geographic features, demolished buildings, lost / stolen artifacts—is infiltrated upon by the "plasticity" of its fabrication. By re-producing erased objects using materials sometimes not even present in the original contexts, our fabrication creates a distorted sense of materiality. In short, how do we—or can we—account for the fabrication of materiality as it is manifest through an individual or collective expectation? Does making in the humanities revive, in a tactile format, something that has not been quite erased? While the original contexts and cross-references may no longer exist, the memories, experiences, and cultural signatures do—how do researchers seek to incorporate those things inside the tactile reproduction?Building on this primary intervention, the contribution will move to discuss what happens when the individual or collective reaction to the materiality of once-erased spaces intercedes upon the intended outcomes, rendering any knowledge creation or production inert. While we may be able to fabricate erased objects, we do not yet have a foundation for understanding and predicting the triggers—cultural, social, economic—the reproduction of those models may elicit. We may be guilty, in our zeal for re-deploying humanities practice in technological contexts, of "fabricating" connections between materiality and memory, unduly activating difficult emotional reactions that are not accounted for in the value proposition for re-making erased spaces, which is often about re-establishing erased truths and representing lost heritage. What the fabrication of erased spaces, as a form of technologically-based humanities practice, might show us is that these spaces are not artifacts in a tactile or material sense, but rather are symbolic of a set of emotional, cultural, and economic realities that individuals and collectives may not be equipped to process. As we fabricate, or re-fabricate, assemblages of once-erased cultural spaces, what exactly are we activating in the social space and how might we account for the “fixed” truth fabricated by the machine?
+
+----
+
+William Turkel notes that "every single aspect of our environment bears some physical or causal connection to past events. Every *thing* has a history, and our ability to reconstruct the past of anything is limited only by the knowledge that we bring to bear and by our ability to detect or discriminate or identify or measure the trace (Turkel, William. *The Archive of Place: Unearthing the Pasts of the Chilcotin Plateau.* Vancouver: UBC P, 2007. (xx)"
 
 "But tracks are not the only material trace of the past. IN fact, every single aspect of our environment bears some physical or causal connection to past events. Every *thing* has a history, and our ability to reconstruct the past of anything is limited only by the knowledge that we bring to bear and by our ability to detect or discriminate or identify or measure the trace (Turkel, William. *The Archive of Place: Unearthing the Pasts of the Chilcotin Plateau.* Vancouver: UBC P, 2007. (xx)
 
 "Representations always undermine the things represented, and any attemptto make things more concrete invariably leads to unexpected difficulties" (Turkel 227)
 
 "The different ways a place is imagined do as much to shape the understanding of what happened there in the past as any physical trace ever could." (Turkel 227)
+
+----
 
 ## Notes on the Jentery Essay
 
@@ -34,7 +66,7 @@ What are the implications of this kind of replication when it appears outside th
 - Who is doing the making? Thinking about the public sharing if files here... You can do the Makerbot but from the SNC INKE but here. In other words, the Taiwanese house is an examples of how these fabricated models can now be housed outside traditional contexts of museums, libraries, or other contexts of authority. 
 - So what' style difference between this and a tamia model? The tamia model is reproduced to sell.... Not necessarily share. It still belongs to the cultural laws of supply and demand. Not hobbies. 
 
-
+---
 
 ## Context is Everything is Context
 
@@ -59,7 +91,8 @@ What are the implications of this kind of replication when it appears outside th
 
 ----
 
-This brief discussion paper confronts the following general question: if we are attempting to revive erased spaces by re-fabricating them, what responsibility do we have to the corpse’s social, political, economic, and cultural aura? Put another way, how should we consider, integrate or confront an individual—or collective—emotional effect produced by the revival of the previously erased or inert? Focusing on 3D printing and its inter-related communities of production, I want to look at how the production of material objects by 3D printing mediates the transaction of cultural artifacts. Suffice to say, there is a considerable space for understanding the current rush to fabricate as encouraging unforeseen fractures in (and connections to) the exchange and signification of cultural artifacts.
+
+In his illuminating book-length survey of the Chilcotin Plateau, William Turkel notes that "every single aspect of our environment bears some physical or causal connection to past events. Every *thing* has a history, and our ability to reconstruct the past of anything is limited only by the knowledge that we bring to bear and by our ability to detect or discriminate or identify or measure the trace (Turkel, William. *The Archive of Place: Unearthing the Pasts of the Chilcotin Plateau.* Vancouver: UBC P, 2007. (xx)". Taking this as a starting point, we need to confront the following general question: if we are attempting to revive erased spaces by re-fabricating them, what responsibility do we have to the corpse’s social, political, economic, and cultural aura? Put another way, how should we consider, integrate or confront an individual—or collective—emotional effect produced by the revival of the previously erased or inert? Focusing on 3D printing and its inter-related communities of production, I want to look at how the production of material objects by 3D printing mediates the transaction of cultural artifacts. Suffice to say, there is a considerable space for understanding the current rush to fabricate as encouraging unforeseen fractures in (and connections to) the exchange and signification of cultural artifacts.
 
 ###The Filament
 
