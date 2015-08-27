@@ -2,6 +2,22 @@
 
 ----
 
+Tim Sherrat, discontents.com.au "Unremembering the forgotten" Keynote presented at DH2015, 3 July 2015. accessed June 2015.
+
+"Jenny Edkins has been exploring the politics of faces, and she suggests that alongside our attempts to ‘read’ portrait photographs we also respond in a more visceral fashion, provoking responses such as ‘guilt, obligation, and reciprocity’.5 Like the ‘messy moments’ of protest bots, she argues that the connections we make through photos of faces can disrupt the ‘linear narrative temporality’ on which sovereign power depends. We are connected through time, not with history, not with the past, but with people. And that has implications." (Sherrat)
+
+"We knew that that the documents and the images were powerful, but displaying the faces on that seemingly endless scrolling wall did something more than we were expecting." (Sherrat)
+
+"The act of opening – records, archives, sources – is contingent and contextual. It creates a connection between inside and outside, past and present, us and them. What we do with that connection is up to us." (Sherrat)
+
+"Memory, as we experience it, is something quite different. It’s fragmentary, uncertain, and shaped by context. The process of recall is unpredictable and sometimes disturbing – memories are often triggered involuntarily. Within a society memories are contested and contradictory. Who controls the keys?" (Sherrat)
+
+Jenny Edkins, *Face Politics* Routledge, 2015.
+
+**Maybe you need to reframe access? What are we accessing when we fabricate things? What do we hope to access?**
+
+----
+
 Devon Elliott, Robert MacDougall, & William J. Turkel. "New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice." *Canadian Journal of Communication* Vol 37 (2012) 121-128.
 
 "Matter is a new medium for historical research, providing the opportunity to explore physical and experiential questions while working with digitized and materialized forms." (Turkel 121)
@@ -42,9 +58,25 @@ William Turkel notes that "every single aspect of our environment bears some phy
 
 "The different ways a place is imagined do as much to shape the understanding of what happened there in the past as any physical trace ever could." (Turkel 227)
 
-----
+"Media are civilizational ordering devices" Kindle Loc 105 of 9689
 
-## Notes on the Jentery Essay
+"media theory is about environments and infrastructures as much as about messages and content is well rooted in a variety of intellectual traditions. /NPara/ Digital devices invite us to think of media as environmental, as part of the habitat, and not just as semiotic inputs into people's heads. This book starts from the idea that the advent of digital media returns us to fundamental and perennial problems of communication and civilization. /NPage/ So-called new media do not take us into uncharted waters: they revive the most basic problems of conjoined living in complex societies and cast the oldest troubles into relief (kindle Loc 93-105 of 9689)
+
+"we have to rethink what we mean by meaning. If we mean mental content intentionally designed to say somethign to someone" or "if we mean repositories of readable data and processes that sustain and enable existence" (Loc 93 of 9689) 
+
+"Media [...] are about humans, and more specifically about vehicles that mark human meaning and intention" (Kindle Loc 80 of 9689). Thinking about the medium of the 3D printer as a "that marks human meaning and intention" allows us to see how the object it produces can have within it both meaning and intention--the intention may not necessarily be visible and it may also me offensive... if the intention is locked up in socio-cultural assumptions. If we *intend* to be racist we do not necessarily intend to be offensive. It's a wierd situation in which the object holds its intentionality through its need to be reproduced. Who makes the decision to reproduce the object and why? These are things that the fabricated object brings forward, particularly on a personal level of the individual hobbiest. 
+
+[WHO ARE YOU TALKING ABOUT? INDIVIDUALS OR INDUSTRIAL PRODUCERS? BEST TO QUALIFY THAT]
+
+3D printing like any of other medium can be understood generally as a way of communicating meaning. And in this particular instance, a way of communicating a textual or preserved meaning... a way of capturing meaning and holding it in the supposedly unbiased object or objectivity of the inert fabrication.
+
+In so doing we destroy certain elements of communication. We destroy authenticity. We also revive the associations that the object might represent--some of those associations may be rendered inert by other forms of representation such as photographs, stories, or oral traditions all of which lack the tactility and interjection an object in space carries with it. 
+
+"Media are not only devices of information; they are agencies of order" (Kindle Loc 47 of 9689) (John Durham Peters-Clouds)
+
+Peters, John Durham. *The Marvelous Clouds: Toward a Philosophy of Elemental Media*. Chicago: U of Chicago P, 2015.
+
+----
 
 *"A trauma trigger is an experience that causes someone to recall a previous traumatic memory, although the trigger itself need not be frightening or traumatic and can be indirectly or superficially reminiscent an earlier traumatic incident.[1] Trauma triggers are related to posttraumatic stress disorder, a condition in which sufferers often cannot control the recurrence of emotional or physical symptoms,[1] or of repressed memory.[2][3][4] Triggers can be subtle and difficult to anticipate,[5][1] and can sometimes exacerbate PTSD. A trauma trigger may also be referred to as a trauma stimulus or a trauma stressor.[6]*
 
@@ -59,12 +91,12 @@ For all these reasons the 3d printed object harbours additional trigger elements
 
 And what of this materiality? The objects ability to be manipulated by others, touched, moved, places, exchanged. All of these factors need to be addressed when considering the recorded traces of the object.
 
-Reproducing the New Westminster Chinatown for instance allows for the miniaturized model to placed within the boundaries of the actual, or real, traces of new west Chinatown. We can either replicate full scale, or we can replicate miniature, but the implication is the same. One can easily imagine the disturbance caused by a full scale replication of Dachau or ither concentration camps. In order to better understand these spades,  models are reproduced and rendered as cultural history. 
+Reproducing the New Westminster Chinatown for instance allows for the miniaturized model to placed within the boundaries of the actual, or real, traces of new west Chinatown. We can either replicate full scale, or we can replicate miniature, but the implication is the same. One can easily imagine the disturbance caused by a full scale replication of Dachau or other concentration camps. In order to better understand these spades,  models are reproduced and rendered as cultural history. 
 
 What are the implications of this kind of replication when it appears outside the context of the original? 
-- new spaces recontextualizes the original as well.... It is both accessible and inaccessible at the same time. It holds the spaces of the original 
+- new spaces re-contextualizes the original as well.... It is both accessible and inaccessible at the same time. It holds the spaces of the original 
 - Who is doing the making? Thinking about the public sharing if files here... You can do the Makerbot but from the SNC INKE but here. In other words, the Taiwanese house is an examples of how these fabricated models can now be housed outside traditional contexts of museums, libraries, or other contexts of authority. 
-- So what' style difference between this and a tamia model? The tamia model is reproduced to sell.... Not necessarily share. It still belongs to the cultural laws of supply and demand. Not hobbies. 
+- So what' style difference between this and a Tamia model? The Tamia model is reproduced to sell.... Not necessarily share. It still belongs to the cultural laws of supply and demand. Not hobbies. 
 
 ---
 
@@ -131,4 +163,16 @@ Building on an acknowledgement of the effect error might have on the object’s 
 Indeed, what is it we are fabricating exactly? Hint: it isn’t the object. It’s the idea that the object doesn’t signify the act of production itself (in the Fordian sense). The objects we reproduce fabricate the myth of permanence, preservation, and success rather than the political, cultural, and social values the object might represent; you can have any Taiwanese Aboriginal Harvest Festival Altar you want, as long as it’s white.
 The very act of reproduction opens many questions from those groups who might claim ownership over the fabricated object itself. This includes the group who might “own” the original artifact, but also extends to the community that creates the source files, the community that builds upon it, revises it, and makes still more copies of it. The artifact represents a form of social knowledge creation—or dissemination—and as such carries with it the expectations, biases, and failures of the communities that fabricate it.
 What the fabrication of erased spaces, as a form of technologically based social knowledge creation, might show us is that these spaces are not artifacts in a tactile or material sense, but rather are symbolic of a set of emotional, cultural, and economic realities that individuals and collectives may not be equipped to process. As we fabricate, or re-fabricate, assemblages of once-erased cultural spaces, what exactly are we activating in the social space and how might we account for the “fixed” truth fabricated by the 3D printing machine?
+
+----
+
+Benjamin, Walter. Translated: by Harry Zohn; Published: by Schocken/Random House, ed. by Hannah Arendt; https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm
+
+"the work of art reproduced becomes the work of art designed for reproducibility." (Benjamin)
+
+"The uniqueness of a work of art is inseparable from its being imbedded in the fabric of tradition. This tradition itself is thoroughly alive and extremely changeable. An ancient statue of Venus, for example, stood in a different traditional context with the Greeks, who made it an object of veneration, than with the clerics of the Middle Ages, who viewed it as an ominous idol. Both of them, however, were equally confronted with its uniqueness, that is, its aura. Originally the contextual integration of art in tradition found its expression in the cult. We know that the earliest art works originated in the service of a ritual – first the magical, then the religious kind. It is significant that the existence of the work of art with reference to its aura is never entirely separated from its ritual function. In other words, the unique value of the “authentic” work of art has its basis in ritual, the location of its original use value. This ritualistic basis, however remote, is still recognizable as secularized ritual even in the most profane forms of the cult of beauty. The secular cult of beauty, developed during the Renaissance and prevailing for three centuries, clearly showed that ritualistic basis in its decline and the first deep crisis which befell it. With the advent of the first truly revolutionary means of reproduction, photography, simultaneously with the rise of socialism, art sensed the approaching crisis which has become evident a century later. At the time, art reacted with the doctrine of l’art pour l’art, that is, with a theology of art. This gave rise to what might be called a negative theology in the form of the idea of “pure” art, which not only denied any social function of art but also any categorizing by subject matter. (In poetry, Mallarme was the first to take this position.)
+
+An analysis of art in the age of mechanical reproduction must do justice to these relationships, for they lead us to an all-important insight: for the first time in world history, mechanical reproduction emancipates the work of art from its parasitical dependence on ritual. To an ever greater degree the work of art reproduced becomes the work of art designed for reproducibility. From a photographic negative, for example, one can make any number of prints; to ask for the “authentic” print makes no sense. But the instant the criterion of authenticity ceases to be applicable to artistic production, the total function of art is reversed. Instead of being based on ritual, it begins to be based on another practice – politics." (Benjamin)
+
+----
 References:[Old World Trade Center Site. Sacchetta. February 22, 2015:](http://www.thingiverse.com/thing:693972)[Taiwan Aboriginal, Aboriginal Harvest Festival Altar. NANCHI. June 2, 2014:](http://www.thingiverse.com/thing:217653)
