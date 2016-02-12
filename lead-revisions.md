@@ -4,7 +4,9 @@ Thinking about revisions to the MHM Piece:
 - Humanities is always trumpted as useful, how then to real-world hobbists, make?
 - What's it like when we confront a new object in the wild and work to fabricate it
 - Imagine the scenario where someone confronts the social network -- how is that network connected to the object... **how is the object erased by the network?** 
-- The process does not begin with the design of the object, but with the machining of the object... lost is its cultural relevance... lost are the entaglements that lead to its production. 
+- The process does not begin with the design of the object, but with the machining of the object... lost is its cultural relevance... lost are the entaglements that lead to its production.
+- 9/11: if fabrication is ultimately an act of recovery, then what exactly is it recoverring? There is no ephemera, or is there? and what of that connection
+- I need a quote about 9/11 that talks about what it represents in terms of the tangible loss of the space -- which is itself recovered by the 3D model...
 
 
 **Comment on paragraph 3:**
