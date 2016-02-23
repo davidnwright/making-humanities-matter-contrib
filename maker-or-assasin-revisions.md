@@ -1,4 +1,4 @@
-#####Maker or Assassin: The Charred Aura of the Re-made - Contribution to Making Humanities Matter - David N. Wright
+#####Erased Spaces and The Charred Aura of the Re-made - Contribution to Making Humanities Matter - David N. Wright
 - 
 [Old World Trade Center Site (WTC) by Sacchetta, published Feb 22, 2015](http://www.thingiverse.com/thing:693972)
 
@@ -7,9 +7,11 @@ This is but one case study... there are numerous other ways to reproduce the sca
 
 		- Perhaps this is more like the “thesis paragraph” that I’d expect to find in a typical 2500 word essay? If so, don’t set it off below a subheading. Again, filament is a suggestive metaphor that could be used more consistently throughout the paper, especially if given a consistent theoretical grounding.
 
-The title harkens back to Walter Benjamin's aura--wherein the work of art loses its resonance amidst remediation and mecahnical reproduction. Benjamin's thoughts about reproducability are particularly resanant as we continue along the path of fabrication technologies that reproduce just about anything at this point. Benjamin suggests that the work of art loses it aura--an aura usually created by its scarcity--as images or copies of it are remediated in film, or other media. 
+The title harkens back to Walter Benjamin's aura--wherein the work of art loses its resonance amidst remediation and mechanical reproduction. Benjamin's thoughts about reproduction are particularly resonant in light of the renewed interest in fabrication technologies, particularly those commonly referred to as desktop fabrication. 
 
-Benjamin reminds us that technological reproduction is nothing new and we should not go nuts about its revelations. However, I'm interested in how 3D printing foregrounds the actual "making of" the object and the "success" of that making over a reproduction of the original and its corresponding signification. While 3D printing certainly continues the contextual slippage that Benjamin notes, it also does something different. 3D printing both strips the original object of its historical context and at the same time wraps it in a new paradigm that is "being made." That is, the successful object is not necessarily one which is an exact replica, but one that is a good enough copy. There is no desire to capture the originality of the object, but rather simply capture it successfully as another object, disassociated from anything... NOT SURE ABOUT THIS>... the object can be exchanged independant of its original context and distributed only as a successfully made object.  
+Benjamin suggests that the work of art loses it aura--an aura usually created by its scarcity--as images or copies of it are remediated in film, or other media. 
+
+Benjamin reminds us that technological reproduction is nothing new and we should not go nuts about its revelations. However, I'm interested in how 3D printing foregrounds the actual "making of" the object and the "success" of that making over a reproduction of the original and its corresponding signification. While 3D printing certainly continues the contextual slippage that Benjamin notes, it also does something different. 3D printing both strips the original object of its historical context and at the same time wraps it in a new paradigm that is "being made." That is, the successful object is not necessarily one which is an exact replica, but one that is a good enough copy. There is no desire to capture the originality of the object, but rather simply capture it successfully as another object, disassociated from anything... NOT SURE ABOUT THIS>... the object can be exchanged independent of its original context and distributed only as a successfully made object.  
 
 I need to use the aura to frame 3D printing as a mode of fabrication that plays with or problematizes the associations that a trinket might possess. It destabilizes the references an object might have for an individual... where trinkets are usually marked by the stories that accompany them--a reproduction of a desired object, an aunt's visit, a souvenir--the objects printed off from Thingiverse are disconnected from these narratives of memory. There connection to the actual object tangential to the success of actually making the object. The narrative surrounding the trinket is not a story or personal narrative. Rather, it represents a successful fabrication.
 
@@ -19,7 +21,10 @@ Do a search on "tricnket" and "911" and then move on... maybe one more on trinke
 
 The reference to Benajmin's aura Not meant to invoke a conversation about Benjamin and the resonance of is theories or a conversation about reproducabililty and its effect on art--ground well covered. Instead, I want to focus the docussion on the universe of Thingverse and the free exchange of objects and one particular example of the World Trade Center. In so doing, I hope to argue that the aura of even the tricnket, not just the work of art is losing some resonance and may be acting as a trigger for further issues such as... (copy from what you have)
 
-Taking this filament linking the completed object to the politics of its revival into account then, it seems reasonable to suggest that working with 3D printers to revive erased spaces for cultural critique is fabricating more than merely objects for scrutiny. What 3D printing does is fabricate new cultural cross-references embedded in the tactility of the object it revives, reproduces, or oddly, erases even further—making stone into plastic.
+
+
+
+Taking this filament linking the completed object to the politics of its revival into account then, it seems reasonable to suggest that working with 3D printers to revive erased spaces for cultural critique is fabricating more than merely objects for scrutiny. What the social dynamics and cultures springing up around fabrication technologies do is fabricate new ephemera embedded in the tactility of the object it revives, reproduces, or oddly, erases even further—making stone into plastic.
 
 
 
@@ -33,6 +38,40 @@ Taking this filament linking the completed object to the politics of its revival
 	- What’s the relation between object and space you’re proposing here?
 	- How do playfulness and sharing pertain? It’s not obvious that they might; so I’d like to understand the turn to these two modes of engagement.
 	- The opening paragraph presents an interesting and, I think, important thread of thought to be taken up; however, the second paragraph of the introduction left me unprepared for the essay that follows. Perhaps you could introduce a clearer methodology here? Or expand on what you mean by 3D printing as “encouraging unforeseen fractures in (and connections to) the exchange and significance of cultural artifacts”? I look forward to reading the final draft of this piece. 
+
+An erased space is one that leaves a trace but no longer exists. The erased space is not empty (that is, not a space in the true sense), it holds the trace of something erased. By erased space, I mean something akin to The World Trade Center, which is at once the erased space of the Twin Towers and the emerging space of One World Trade Center (or, more commonly, "Freedom Tower"). The World Trade Center space holds traces of the Twin Towers--indeed the memorial itself--and provides an area for the Freedom Tower. The Twin Towers have been erased, but there lingers an aura of their existence; an existence that is reinforced both by the redemptive narratives associated with Freedom Tower and the renewed World Trade Center site and with the 9/11 Memorial to the victims of the September 2011 terrorist attacks. 
+
+Erased spaces represent spaces where there is evidence of--or an aura of--things removed--marks of something having been--or even the invisible attempts to remove all traces associated with thought, feeling, history, or memory. At the same time, erased spaces also represent the potential of an expanse that is free, open, and unoccupied--ready and approved as a space for renewal and revision.
+
+- a continuous area or expanse that is free, available, or unoccupied.
+- rub out or remove (writing or marks).
+- remove all traces of (a thought, feeling, or memory).
+- ephemera - things that exist or are used or enjoyed for only a short time -- items of collectible memorabilia, typically written or printed ones, that were originally expected to have only short-term usefulness or popularity.
+
+Erased space is a theoretical name for absence, but an absence that attempts to capture the idea that even in absencia, there lingers the ephemera of the object that occupied that space prior to its erasure. It tries to account for the lingering marks of what came before, and what suggests the potential for the new. 
+
+3D printing and other emerging digital technologies, unlike the crafts of the past, lean toward creating ephemera. The rub is that they often make ephemera out of things that once had resonance--like the Twin Towers. 
+
+How does the student of cultural history then account for the shift from something resonant and tangible into something ephemeral and trinket-based. The answer is to think not about the object itself, but the erased space it may have occupied and examine the triggers associated with its re-making or fabrication. Complexly, to look at the ephemera made by remaking. 
+
+This is not a playful exercise. This effort tries to account for the lasting resonance of ephemera, separated from its disposable, or short life-cycle, ephemera often defines who we are, where we have been, how we see ourselves. These objects--trinkets--carry particular resonance to the individuals that own them, experience them, or associate them with someone or some experience. (QUOTES) 
+
+ 
+
+Objects as erased spaces because they both occupy space and offer space. LIke a building, these objects present themselves in the space and take up space, but at the same time offer the potential for more space. 
+
+Fabricating Erased Spaces: The Charred Ephemera of the Re-made
+
+The social exchange of these digitized objects does not account for the ephemera of the erased spaces those objects might have occupied. The same goes for the fabrication of erased spaces. 
+
+
+
+
+I'm particularly interested in how we reproduce such erased spaces, particularly the lingering shreds of memory associated with what's been erased, in the social milieu that often marks maker cultures or fabrication. 
+
+Trinket
+
+Memories that mark our position inside these spaces -- we were actually there...
 
 When we talk about fabrication in the humanities, we often avoid confronting the following general question: if we are attempting to revive erased cultural spaces by re-fabricating them, what responsibility do we have to the corpse’s social, political, economic, and cultural aura? The question emerges forcefully when we account for motivations such as those suggested by Devon Elliott, Robert MacDougall, and William J. Turkel: "We fabricate objects related to our own historical interests, and then we play with them, modify them, share them with other people, and use them to ground conversations about the past and our relationship to it."[^1] While the exchange, examination, and manipulation of objects--historical or not--is an important mode of critical cultural inquiry, there are important distinctions to be raised when these objects belong to an unaccounted for original cultural context or are situated in contexts where playfulness and sharing might not be a welcome mode of cultural inquiry. Put another way, how should we consider, integrate, or confront emotional effects produced by the revival of the previously erased or inert?
 
