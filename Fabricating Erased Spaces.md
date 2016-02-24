@@ -44,7 +44,12 @@ Reproducing a trinket-sized model of The World Trade Center as it looked prior t
 
 
 
-Generally speaking, when I think about fabrication in the humanities, I think about reviving objects that no longer exist: "matter as a new medium for historical research" (T 122)
+Generally speaking, when I think about fabrication in the humanities, I think about reviving objects that no longer exist: 
+
+"matter as a new medium for historical research" (T 122)
+
+"the proliferation of digital sources--both the born-digital and the digitized--has created an economy of abundance" (122)   
+
 
 
 
