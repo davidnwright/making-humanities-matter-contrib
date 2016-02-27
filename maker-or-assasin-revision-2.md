@@ -1,4 +1,4 @@
-#####Maker or Assassin: The Charred Aura of the Re-made - Contribution to Making Humanities Matter - David N. Wright
+#####Exchanging Communities: Towards a Paradigm for Fabrication in the Humanities - Contribution to Making Humanities Matter - David N. Wright
 
 ----
 
